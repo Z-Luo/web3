@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import styled from 'styled-components';
 
 import ChooseLocation from './ChooseLocation';
-import DateFilter from './DateFilter';
+// import DateFilter from './DateFilter';
 import PriceFilter from './PriceFilter';
 import ShowMapSection from './ShowMapSection/ShowMapSection';
 import EventItem from '@/components/Shares/EventItem';
