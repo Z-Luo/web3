@@ -1,0 +1,46 @@
+[
+	{
+		"id": "1",
+		"name": "Nicholas Nong",
+		"region": "All",
+		"email": "business@web3convention.com",
+		"extra": "Business enquiry"
+	},
+	{
+		"id": "2",
+		"name": "Celeste Yang",
+		"region": "All",
+		"email": "info@web3convention.com",
+		"extra": "Info enquiry"
+	},
+	{
+		"id": "3",
+		"name": "Finkel",
+		"region": "All",
+		"email": "finkel@web3convention.com"
+	},
+	{
+		"id": "5",
+		"name": "David Flori",
+		"region": "BD in Australia",
+		"email": "david.flori@web3convention.com"
+	},
+	{
+		"id": "6",
+		"name": "Robert",
+		"region": "BD in China",
+		"email": "robert@web3convention.com"
+	},
+	{
+		"id": "7",
+		"name": "Gordon Yeung",
+		"region": "BD in China",
+		"email": "gordon@web3convention.com"
+	},
+	{
+		"id": "8",
+		"name": "Wei Wang",
+		"region": "BD in China",
+		"email": "wei.wang@web3convention.com"
+	}
+]

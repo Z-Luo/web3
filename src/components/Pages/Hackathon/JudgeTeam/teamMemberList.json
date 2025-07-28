@@ -1,0 +1,174 @@
+[
+	{
+		"_id": "20",
+		"name": "Lise Li",
+		"description": "Graduated from the University of International Business and Economics (UIBE) and with years of experience in Fintech industry, Lise is currently dedicated in advocating BSV Blockchain technology as Head of APAC Hub with BSV Association (Switzerland). Lise is also founder and CEO of Keyi Technology which is a Shanghai-based blockchain consulting company.",
+		"jobTitle": "Head of APAC Hub, BSV Association (Switzerland)",
+		"avatarSrc": "/images/speakers/huizi.png",
+		"companySrc": "/images/logo/bitcoinsv.png"
+	},
+	{
+		"_id": "2",
+		"name": "Andy Huang",
+		"description": "",
+		"jobTitle": "Head of AI/ML at Servian",
+		"avatarSrc": "/images/speakers/andy.png",
+		"companySrc": "/images/logo/servian.png"
+	},
+	{
+		"_id": "3",
+		"name": "Yun Zhi Lin",
+		"description": "Yun Zhi is a partner in Deloitte’s Cloud & Engineering team, co-leading 500+engineers in solving complex business-led engineering problems. He leads Deloitte’s Application Modernisation offering, sponsor's Deloitte's Web3 practice and also is a guest lecturer at Macquarie Business School.",
+		"jobTitle": "Partner at Deloitte",
+		"companySrc": "/images/logo/deloitte.png",
+		"avatarSrc": "/images/speakers/yzlin - Yun Zhi Lin.jpg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/mrserverless/",
+			"twitter": "https://twitter.com/mrserverless"
+		},
+		"isSpeaker": true
+	},
+	{
+		"_id": "4",
+		"name": "Ivan Liu",
+		"description": "",
+		"jobTitle": "Director of Engineering at Rokt",
+		"avatarSrc": "/images/speakers/ivan.png",
+		"companySrc": "/images/logo/rokt.png",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/ivanliu1989"
+		}
+	},
+	{
+		"_id": "5",
+		"name": "Daniel Monge",
+		"description": "Daniel Monge is President and CEO of Franklin Templeton. In a career at Franklin Templeton spanning over 30 years, she has been a key driver in the company's transformation to what is now one of the most respected global firms focused on investment management.",
+		"jobTitle": "NFT APAC Co-Founder",
+		"companySrc": "/images/logo/nft-apac.jpeg",
+		"avatarSrc": "/images/speakers/daniel-monge.jpeg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/daniel-monge-101159186/",
+			"twitter": "https://twitter.com/RollingUp__"
+		}
+	},
+	{
+		"_id": "6",
+		"name": "Kian Jackson",
+		"description": "Kian has over 20 years of experience in the payments industry across Europe and APAC. Kian established the payment acceptance capability for the Novatti Group (ASX: NOV) and leads this part of the business. Kian is also the founder and patent holder of payXcrypto, a Crypto Payment Gateway, that enables wallet holders to pay seamlessly for goods and services online.  ",
+		"jobTitle": "General Manager Novatti",
+		"companySrc": "/images/logo/Novatti.png",
+		"avatarSrc": "/images/speakers/Kian_0687 - Kian Jackson.jpg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/kianjackson/"
+		},
+		"isSpeaker": true
+	},
+	{
+		"_id": "7",
+		"name": "Zahir Tari",
+		"description": " Zahir is a Full Professor and the research director of the RMIT Centre of Cybersecurity Research and Innovation (CCSRI). Zahir’s expertise is in the areas of system’s performance (e.g. P2P, Cloud, IoT) as well as system’s security (e.g. SCADA, SmartGrid, Cloud, IoT). He is the co-author of 8 books (John Wiley, Springer) and he has edited over 25 conference proceedings. Zahir is also a recipient of over 15M$ in funding from ARC (Australian Research Council) and European projects e.g. 7th Framework AU2EU (Australia to European) bid on “Authorisation and Authentication for Entrusted Unions. Finally, Zahir is or has been an associate editor of ACM Computing Surveys, IEEE Transactions on Computers (TC), IEEE Transactions on Parallel and Distributed Systems (TPDS) and IEEE Magazine on Cloud Computing.",
+		"jobTitle": "Professor, Research Director at RMIT",
+		"companySrc": "/images/logo/RMIT_POS3.png",
+		"avatarSrc": "/images/speakers/Zahir-Tari.jpeg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/zahir-tari-70aaa28/"
+		},
+		"isSpeaker": true
+	},
+	{
+		"_id": "8",
+		"name": "Hai Dong",
+		"description": "",
+		"jobTitle": "Director of RMIT Green Crypto Lab",
+		"avatarSrc": "/images/speakers/Hai_Don.jpeg",
+		"companySrc": "/images/logo/RMIT_POS3.png"
+	},
+	{
+		"_id": "9",
+		"name": "Aaron Cassar",
+		"description": "",
+		"jobTitle": "Managing Director at Darqtec",
+		"companySrc": "/images/logo/Darqtec.webp",
+		"avatarSrc": "/images/speakers/Aaron.jpg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/aarontroycassar/"
+		}
+	},
+	{
+		"_id": "11",
+		"name": "Joseph Liu",
+		"description": "",
+		"jobTitle": "Professor at Monash",
+		"companySrc": "/images/logo/monash-university-vector-logo.png",
+		"avatarSrc": "/images/speakers/joseph.jpg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/joseph-liu-a5b05886/"
+		}
+	},
+	{
+		"_id": "12",
+		"name": "Mandy Jiang",
+		"description": "Leading company in blockchain ",
+		"jobTitle": "Group CFO at Cloudtech",
+		"companySrc": "/images/logo/cloudtech-group.png",
+		"avatarSrc": "/images/speakers/Mandy.jpeg"
+	},
+	{
+		"_id": "13",
+		"name": "Jenks Guo",
+		"description": "",
+		"jobTitle": "Developer Advocate at Filecoin",
+		"companySrc": "/images/sponsors/file-coin.png",
+		"avatarSrc": "/images/speakers/Jenks.png",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/jenks-guo-58257438/",
+			"twitter": "https://twitter.com/JenksGuo"
+		}
+	},
+	{
+		"_id": "14",
+		"name": "Andrew Zhou",
+		"description": "Leading Tech Strategy for Metaverse and Web3 for Accenture in Growth Market across 18 different countries.",
+		"jobTitle": "Metaverse Tech Strategy Lead - Growth Market",
+		"companySrc": "/images/sponsors/accenture.png",
+		"avatarSrc": "/images/speakers/andrew.jpeg",
+		"socialMedia": {
+			"linkedIn": "https://linkedin.com/in/andrewzhou52"
+		}
+	},
+	{
+		"_id": "15",
+		"name": "Xue Li",
+		"description": "Dr Xue Li is honoured as one of \"the most powerful people in Australia\" on Big Data by the Financial Review",
+		"jobTitle": "Professor at University Of Queensland",
+		"avatarSrc": "/images/speakers/xueli.jpeg",
+		"companySrc": "/images/logo/uq-logo-purple.png"
+	},
+	{
+		"_id": "16",
+		"name": "Alyse Sue",
+		"description": "",
+		"jobTitle": "KPMG Director of Metaverse",
+		"avatarSrc": "/images/speakers/alyse.webp",
+		"companySrc": "/images/sponsors/KPMG_logo.svg",
+		"socialMedia": {
+			"linkedIn": "https://www.linkedin.com/in/alysesue/"
+		}
+	},
+	{
+		"_id": "17",
+		"name": "Liam Bussell",
+		"description": "",
+		"jobTitle": "Chief Marketing Officer",
+		"avatarSrc": "/images/speakers/Liam_Bussell.png",
+		"companySrc": "/images/logo/cloudtech-group.png"
+	},
+	{
+		"_id": "18",
+		"name": "Jason Choi",
+		"description": "Cointelegraph Managing Partner",
+		"jobTitle": "Head of Strategy",
+		"avatarSrc": "/images/speakers/Jason_Choi.png",
+		"companySrc": "/images/sponsors/chiron.png"
+	}
+]

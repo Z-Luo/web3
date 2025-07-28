@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "festivity_1",
+		"eventType": "keynote",
+		"start": "2023-07-20T00:00:00.000Z",
+		"end": "2023-07-20T01:00:00.000Z",
+		"title": "William Hernandez",
+		"host": "by_Andre_Staltz"
+	},
+	{
+		"_id": "festivity_2",
+		"eventType": "party",
+		"start": "2023-07-21T03:00:00.000Z",
+		"end": "2023-07-21T05:00:00.000Z",
+		"title": "Reactive Reality",
+		"host": "hosts"
+	},
+	{
+		"_id": "masterclass_1",
+		"eventType": "hackathon",
+		"start": "2023-07-19T02:00:00.000Z",
+		"end": "2023-07-19T03:00:00.000Z",
+		"title": "Ben Gouhnam",
+		"host": "by_Ines"
+	},
+	{
+		"_id": "masterclass_2",
+		"eventType": "seminar",
+		"start": "2023-07-19T01:00:00.000Z",
+		"end": "2023-07-19T02:00:00.000Z",
+		"title": "VR Programming",
+		"host": "Simon"
+	},
+	{
+		"_id": "seminar_1",
+		"eventType": "pitch",
+		"start": "2023-07-19T03:00:00.000Z",
+		"end": "2023-07-19T04:00:00.000Z",
+		"title": "VR Programming",
+		"host": "hosts"
+	},
+	{
+		"_id": "seminar_2",
+		"eventType": "seminar",
+		"start": "2023-07-20T01:00:00.000Z",
+		"end": "2023-07-20T02:00:00.000Z",
+		"title": "VR Programming",
+		"host": "party"
+	},
+	{
+		"_id": "workshop_1",
+		"eventType": "workshop",
+		"start": "2023-07-17T00:00:00.000Z",
+		"end": "2023-07-17T01:00:00.000Z",
+		"title": "VR Programming",
+		"host": "Lee"
+	}
+]

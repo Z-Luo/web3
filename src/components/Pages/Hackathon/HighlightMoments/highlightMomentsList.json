@@ -1,0 +1,62 @@
+[
+	{
+		"_id": "1",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/welcome.png"
+	},
+	{
+		"_id": "2",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/photoTime.png"
+	},
+	{
+		"_id": "3",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/listening.png"
+	},
+	{
+		"_id": "4",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/stand.png"
+	},
+	{
+		"_id": "5",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/stand1.png"
+	},
+	{
+		"_id": "6",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/watchLaptop.png"
+	},
+	{
+		"_id": "7",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/handShake.png"
+	},
+	{
+		"_id": "8",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/peopleInRoom.png"
+	},
+	{
+		"_id": "9",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/speaker.png"
+	},
+	{
+		"_id": "10",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/girls.png"
+	},
+	{
+		"_id": "11",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/bitGet.png"
+	},
+	{
+		"_id": "12",
+		"label": "Highlight Moments",
+		"imageSrc": "/images/highlights/girl.png"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"id": "01",
+		"title": "Brand Exposure",
+		"description": "Sponsoring the convention provides extensive exposure to a global audience, raising brand awareness and enhancing the company's reputation as a supporter of innovative technologies."
+	},
+	{
+		"id": "02",
+		"title": "Networking Opportunities",
+		"description": "The convention draws a diverse crowd of influential attendees, presenting ample opportunities for business networking, partnerships, and collaboration. Network with global industry leaders."
+	},
+	{
+		"id": "03",
+		"title": "Market Insight",
+		"description": "Attending keynotes and seminars can provide valuable insights into the latest trends and developments in AI and Web3, aiding strategic decision-making and future planning."
+	},
+	{
+		"id": "04",
+		"title": "Talent Recruitment",
+		"description": "The convention attracts top talent in the AI and Web3 space, providing an excellent platform for talent scouting and recruitment."
+	},
+	{
+		"id": "05",
+		"title": "Corporate Social Responsibility",
+		"description": "By supporting the exploration of AI and Web3's role in driving sustainable development, sponsors demonstrate a commitment to social responsibility and technological advancement."
+	},
+	{
+		"id": "06",
+		"title": "Bridge the Web2 and Web3 Gap",
+		"description": "By sponsoring the event, companies have the opportunity to act as bridge builders between the traditional Web2 business and emerging Web3 enterprises. This can help in establishing strategic partnerships and exploring new business models."
+	},
+	{
+		"id": "07",
+		"title": "Position as a Forward-thinking Brand",
+		"description": "The focus on AI and Web3, two of the hottest topics in tech, allows sponsors to position themselves as forward-thinking, innovative brands. This can enhance their image and reputation in the eyes of customers, partners, and industry peers."
+	},
+	{
+		"id": "08",
+		"title": "Highlight Commitment to Technological Advancement",
+		"description": "Sponsoring the convention is a strong statement of a company's commitment to supporting the advancement of technology. This can enhance brand perception, boost customer loyalty, and attract potential investors."
+	},
+	{
+		"id": "09",
+		"title": "Investment Opportunities",
+		"description": "The convention brings together a diverse group of attendees including venture capitalists, angel investors, and representatives from finance institutions. Startups sponsoring the convention can leverage this unique opportunity to pitch their ideas, showcase their potential and secure funding for their ventures."
+	},
+	{
+		"id": "10",
+		"title": "Demonstration of Market Relevance",
+		"description": "Sponsoring the event allows startups to demonstrate their market relevance and growth potential by aligning themselves with cutting-edge themes like AI and Web3. This can enhance their appeal to investors."
+	}
+]

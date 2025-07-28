@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Keynote",
+		"description": "Hear from the industry's leading voices and visionaries.",
+		"id": 1
+	},
+	{
+		"title": "Solo",
+		"description": "Dive deep into specialised topics with expert speakers.",
+		"id": 2
+	},
+	{
+		"title": "Panel Discussion",
+		"description": "Engage in thought-provoking conversations with a diverse group of experts.",
+		"id": 3
+	},
+	{
+		"title": "Fireside Chat",
+		"description": "Experience intimate discussions on the latest trends and challenges.",
+		"id": 4
+	},
+	{
+		"title": "Startup Pitch",
+		"description": "Discover the next big thing in AI and Web3 from emerging startups.",
+		"id": 5
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"_id": "1",
+		"title": "At Brisbane",
+		"text": "At Brisbane, affords delegates, exhibitors and visitors convenient access to Australia’s most cosmopolitan city.",
+		"imageSrc": "/images/demo/venuePage/venueIntro1.jpeg"
+	},
+	{
+		"_id": "2",
+		"title": "Brisbane's Central Precinct",
+		"subtitle": "Brisbane, May 2024",
+		"text": "BCEC is situated at the intersection of Brisbane academic, cultural and technology precincts.",
+		"imageSrc": "/images/demo/venuePage/venueIntro2.png"
+	},
+	{
+		"_id": "3",
+		"title": "Innovation Heart",
+		"subtitle": "Brisbane, May 2024",
+		"text": "BCEC functions as an incubator for ideas, a champion of change and an advocate for community.",
+		"imageSrc": "/images/demo/venuePage/venueIntro3.png"
+	}
+]

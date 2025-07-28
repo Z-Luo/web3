@@ -1,0 +1,28 @@
+[
+	{
+		"title": "May 18 All Day",
+		"subtitle": "Startup Competition",
+		"description": [
+			"Presentation and competition among participating enterprises to showcase innovative products or business models, attracting investors' and judges' attention.",
+			"Judges' evaluation to select winning enterprises and potential investment projects",
+			"Attractive startups and funded companies pitch to investors and sponsors, demonstrating their potential and business plans, seeking further support and collaboration."
+		]
+	},
+	{
+		"title": "May 19 Morning",
+		"subtitle": "Investor, Sponsor Roadshow",
+		"description": [
+			"Investors showcase their strategies to attract potential projects.",
+			"Sponsors display their resources to partner with startups or events.",
+			"Investors and sponsors build relationships and expand networks.",
+			"Sharing trends and experiences for valuable information."
+		]
+	},
+	{
+		"title": "May 19 Afternoon",
+		"subtitle": "Award Ceremony and Closing",
+		"description": [
+			"Presentation of awards to winning startups, announcement of competition outcomes, and conclusion of the event.."
+		]
+	}
+]

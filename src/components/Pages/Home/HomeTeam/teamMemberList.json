@@ -1,0 +1,128 @@
+[
+	{
+		"_id": "1",
+		"name": "Simon Baksys",
+		"description": "Beyond the Hype: Why Web3 Infrastructure is Epic and Powerful",
+		"jobTitle": "GTM and BD Lead, Web3 at Google",
+		"avatarSrc": "/images/speakers/simonasbaksys.jpeg",
+		"companySrc": "/images/logo/google-logo.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "2",
+		"name": "Naomi Gleit",
+		"description": "Naomi is head of product at Meta (formerly Facebook). She leads the team building products and tools that work across Meta's technologies. Naomi also oversees the growth team, integrity team and social impact team.",
+		"jobTitle": "Head of Product at Meta",
+		"avatarSrc": "/images/speakers/Naomi-Gleit.png",
+		"companySrc": "/images/logo/meta.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "3",
+		"name": "Nicole Muniz",
+		"description": "Nicole is CEO of Yuga Labs – the home of Bored Ape Yacht Club and CryptoPunks. Under Nicole’s leadership, Yuga Labs has become an NFT market leader, growing the company's valuation to US$4 billion, and raising more than US$450 million in funding to date.",
+		"jobTitle": "CEO at Yuga Labs",
+		"companySrc": "/images/logo/yuga-labs-social.jpeg",
+		"avatarSrc": "/images/speakers/Nicole-Muniz.jpeg",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "4",
+		"name": "Rohit Prasad",
+		"description": "Rohit is Senior VP and Head Scientist of Amazon Alexa, the voice service that powers Amazon’s family of Echo products, Amazon Fire TV, and third-party offerings. Rohit leads Alexa research and development in AI technologies.",
+		"jobTitle": "Senior VP & Head Scientist for Alexa at Amazon",
+		"avatarSrc": "/images/speakers/Rohit-Prasad.png",
+		"companySrc": "/images/logo/amazon.webp",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "5",
+		"name": "Jeff Shiner",
+		"description": "Jeff Shiner is the CEO of 1Password, a leader in human-centric security and privacy. Jeff has grown the company from 20 people to a 900-employee global organization with a $6.8B USD valuation, supporting millions of consumers and over 100,000 businesses",
+		"jobTitle": "CEO at 1Password",
+		"companySrc": "/images/logo/1Password-logo.png",
+		"avatarSrc": "/images/speakers/jeff.jpeg",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "6",
+		"name": "Sandeep Nailwal",
+		"description": "Sandeep started his career as a software engineer before launching India’s largest marketplace for professional services, ScopeWeaver. He also co-founded and built blockchain-based dApp Polygon, a leading Ehtereum scaling and infrastructure platform.",
+		"jobTitle": "Co-founder at Polygon",
+		"companySrc": "/images/logo/polygon_blockchain_logo.png",
+		"avatarSrc": "/images/speakers/sandeep.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "7",
+		"name": "Alex Zaccaria",
+		"description": "Alex is the co-founder of Linktree, an Australian tech platform giving users the ability to connect followers to their entire online ecosystem.",
+		"jobTitle": "Co-founder & CEO at Linktree",
+		"avatarSrc": "/images/speakers/Alex-Zaccaria.png",
+		"companySrc": "/images/logo/linktree_logo.svg.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "8",
+		"name": "Brendan Yell",
+		"description": "Brendan is a partner at Blah Ventures, the former director of Twilio, and an experienced technology entrepreneur, mentor and investor. Brendan's online career started at 14 after using 300 baud modems to develop a service for friends.",
+		"jobTitle": "Partner at Blah Ventures",
+		"avatarSrc": "/images/speakers/Brendan.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	},
+	{
+		"_id": "9",
+		"name": "Stephen Chow",
+		"description": "Stephen Chow Sing-chi, known professionally as Stephen Chow, is a Hong Kong filmmaker, actor and comedian, known for Shaolin Soccer and Kung Fu Hustle.",
+		"jobTitle": "Filmmaker",
+		"avatarSrc": "/images/speakers/Stephen-Chow.jpeg",
+		"socialMedia": {
+			"twitter": "/"
+		}
+	},
+	{
+		"_id": "10",
+		"name": "Mike Cannon-Brookes",
+		"description": "Mike Cannon-Brookes is the co-founder and co-CEO of Atlassian – an award-winning enterprise software company that helps innovators everywhere plan, build, and launch great software. ",
+		"jobTitle": "CEO of Atlassian",
+		"avatarSrc": "/images/speakers/Mike-hover.jpeg",
+		"companySrc": "/images/logo/atlassian-logo.png",
+		"socialMedia": {
+			"linkedIn": "/",
+			"twitter": "/",
+			"facebook": "/"
+		}
+	}
+]

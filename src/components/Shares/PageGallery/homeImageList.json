@@ -1,0 +1,30 @@
+[
+	{
+		"_id": "1",
+		"imageSrc": "/images/demo/main-home-masonry-img-1.jpg",
+		"rows": 1,
+		"cols": 2
+	},
+	{
+		"_id": "2",
+		"imageSrc": "/images/demo/main-home-masonry-img-2.jpg",
+		"rows": 2,
+		"cols": 1
+	},
+	{
+		"_id": "3",
+		"imageSrc": "/images/demo/main-home-masonry-img-3.jpg"
+	},
+	{
+		"_id": "4",
+		"imageSrc": "/images/demo/main-home-masonry-img-4.jpg"
+	},
+	{
+		"_id": "5",
+		"imageSrc": "/images/demo/main-home-masonry-img-5.jpg"
+	},
+	{
+		"_id": "6",
+		"imageSrc": "/images/demo/main-home-masonry-img-6.jpg"
+	}
+]

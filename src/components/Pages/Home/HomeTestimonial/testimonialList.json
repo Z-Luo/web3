@@ -1,0 +1,47 @@
+[
+	{
+		"_id": "1",
+		"author": {
+			"name": "Laura Poll",
+			"avatarSrc": "/images/demo/team-img-8-new.jpg",
+			"jobTitle": "lead_speaker"
+		},
+		"comment": "Lorem ipsum dolor sit amet, ius latine omnesque et, modus propriae explicari ne vix, te utinam facilisi vix. Dicant melius aliquip vix ad, mazim iudico tritani his id. Cu omittam pericula mel, ei sed stet interpretaris. Ut has civibus placerat facilisi."
+	},
+	{
+		"_id": "2",
+		"author": {
+			"name": "Johannes Schlauf",
+			"avatarSrc": "/images/demo/team-img-6-new.jpg",
+			"jobTitle": "lead_speaker"
+		},
+		"comment": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis, Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis"
+	},
+	{
+		"_id": "3",
+		"author": {
+			"name": "Jeny Maybey",
+			"avatarSrc": "/images/demo/team-img-10-new.jpg",
+			"jobTitle": "lead_speaker"
+		},
+		"comment": "Lorem ipsum dolor sit amet, ius latine omnesque et, modus propriae explicari ne vix, te utinam facilisi vix. Dicant melius aliquip vix ad, mazim iudico tritani his id. Cu omittam pericula mel, ei sed stet interpretaris. Ut has civibus placerat facilisi."
+	},
+	{
+		"_id": "4",
+		"author": {
+			"name": "Frank Yoo",
+			"avatarSrc": "/images/demo/team-img-2-new.jpg",
+			"jobTitle": "lead_speaker"
+		},
+		"comment": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis, Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis"
+	},
+	{
+		"_id": "5",
+		"author": {
+			"name": "Laura Poll",
+			"avatarSrc": "/images/demo/team-img-3-new.jpg",
+			"jobTitle": "lead_speaker"
+		},
+		"comment": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis, Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis"
+	}
+]

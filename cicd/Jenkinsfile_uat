@@ -1,0 +1,73 @@
+pipeline {
+  agent any
+  
+  environment {
+    REGION      = 'ap-southeast-2'
+    ImgName     = 'web3convention-nextjs-uat'
+    CntName     = 'web3convention-nextjs-uat' 
+    DockerFile  = 'Dockerfile.uat'
+    CntPort     = '10090'
+  }
+
+  options {
+    // Keep maximum 10 archievd artifacts
+    buildDiscarder(logRotator(numToKeepStr:'10', artifactNumToKeepStr:'10'))
+    // No simultaneous builds
+    disableConcurrentBuilds()
+    durabilityHint('MAX_SURVIVABILITY') // PERFORMANCE_OPTIMIZED or SURVIVABLE_NONATOMIC
+    ansiColor('xterm')
+  }
+
+  stages {
+    stage('Build image') {
+      steps {
+        withVault(configuration: [timeout: 60, vaultCredentialId: 'Vault Credential', vaultUrl: 'https://vault.jiangren.com.au'], 
+        vaultSecrets: [[path: 'web3convention_env/uat', engineVersion: 2, secretValues: [[vaultKey: 'NEXT_PUBLIC_AWS_ACCESS_KEY_ID'], 
+        [vaultKey: 'NEXT_PUBLIC_AWS_REGION'], [vaultKey: 'NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY'], [vaultKey: 'NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY']]]]) 
+        {
+        echo 'Building web3convention frontend image...'
+        // injecting env fronm vault
+        sh 'docker build -t $ImgName -f $DockerFile --build-arg NEXT_PUBLIC_AWS_ACCESS_KEY_ID="${NEXT_PUBLIC_AWS_ACCESS_KEY_ID}" --build-arg NEXT_PUBLIC_AWS_REGION="${NEXT_PUBLIC_AWS_REGION}" --build-arg NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY="${NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY}" --build-arg NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY="${NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY}" .'
+        }
+      }
+    }
+    stage('Restart Service') {
+      steps {
+        echo 'Stop old service'
+        sh '''
+          if [ "$(docker ps -q -f name=${CntName})" ]; then
+            docker stop $CntName && docker rm $CntName
+            sleep 5
+          fi
+          sleep 5
+        '''
+        sh 'docker run -d -p $CntPort:$CntPort --restart=always --name $CntName $ImgName'
+
+        withVault(configuration: [timeout: 60, vaultCredentialId: 'Vault Credential', vaultUrl: 'https://vault.jiangren.com.au'], vaultSecrets: [[path: 'secret_aws/aws_uat', secretValues: [[vaultKey: 'AWS_ACCESS_KEY_ID'], [vaultKey: 'AWS_SECRET_ACCESS_KEY']]]]) {
+          withVault([configuration: [ vaultUrl: 'https://vault.jiangren.com.au', vaultCredentialId: 'Vault Credential', timeout: 60, engineVersion: 2 ],
+                    vaultSecrets: [[path: 'jenkins_jr_web3convention/uat', engineVersion: 2, secretValues: [
+                                  [vaultKey: 'DISTRIBUTION_ID'],[vaultKey: 'PATHS_TO_INVALIDATE']]]]]) {
+            //update cloudfront
+            sh 'aws cloudfront create-invalidation --distribution-id  "${DISTRIBUTION_ID}" --paths "${PATHS_TO_INVALIDATE}" '      
+          }
+        }
+      }
+    }
+  }
+
+  post {
+    always {
+      //clean jenkins workspace
+      cleanWs()
+    }
+    success {
+      bitbucketStatusNotify(buildState: 'SUCCESSFUL')
+      echo 'Success.'
+    }
+    failure {
+      bitbucketStatusNotify(buildState: 'FAILED')
+      echo 'Failure.'
+    }
+  }
+
+}

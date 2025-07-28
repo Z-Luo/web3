@@ -1,0 +1,22 @@
+[
+	{
+		"id": "1",
+		"title": "Startups",
+		"description": "Access funding and resources to expand their ventures."
+	},
+	{
+		"id": "2",
+		"title": "Enterprises",
+		"description": "Seek further investment opportunities, enhance brand recognition."
+	},
+	{
+		"id": "3",
+		"title": "Investors",
+		"description": "Discover emerging opportunities, invest in high-potential startups."
+	},
+	{
+		"id": "4",
+		"title": "Sponsors",
+		"description": "Offer support, establish connections with potential innovators and investors."
+	}
+]

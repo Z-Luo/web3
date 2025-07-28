@@ -1,0 +1,57 @@
+# Install dependencies only when needed
+FROM node:18.12.1 AS deps
+
+WORKDIR /app
+
+RUN npm cache clean --force
+COPY package.json package-lock.json ./ 
+RUN npx browserslist@latest --update-db
+RUN npm ci
+
+# Rebuild the source code only when needed
+FROM node:18.12.1 AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+
+# Next.js collects completely anonymous telemetry data about general usage.
+# Learn more here: https://nextjs.org/telemetry
+# Define environment variables
+ARG NEXT_PUBLIC_AWS_REGION
+ARG NEXT_PUBLIC_AWS_ACCESS_KEY_ID
+ARG NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY
+ARG NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY
+ENV NEXT_PUBLIC_AWS_REGION ${NEXT_PUBLIC_AWS_REGION}
+ENV NEXT_PUBLIC_AWS_ACCESS_KEY_ID ${NEXT_PUBLIC_AWS_ACCESS_KEY_ID}
+ENV NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY ${NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY}
+ENV NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY ${NEXT_PUBLIC_SENDGRID_SUBSCRIPTION_API_KEY}
+
+RUN npm run build
+
+# Production image, copy all the files and run next
+FROM node:18.12.1 AS runner
+WORKDIR /app
+
+ENV NODE_ENV PRODUCTION
+ENV NEXT_PUBLIC_GA_ID=UA-104830000-2
+
+RUN addgroup --system --gid 1001 nodejs
+RUN adduser --system --uid 1001 nextjs
+
+# You only need to copy next.config.js if you are NOT using the default configuration
+# COPY --from=builder /app/next.config.js ./
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/package.json ./package.json
+
+# Automatically leverage output traces to reduce image size 
+# https://nextjs.org/docs/advanced-features/output-file-tracing
+COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
+COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
+
+USER nextjs
+
+EXPOSE 10091
+
+ENV PORT 10091
+
+CMD ["node", "server.js"]

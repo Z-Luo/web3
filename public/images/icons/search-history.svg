@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <g id="web3-Event-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="General-Events-Listing-All-Interaction2" transform="translate(-204.000000, -740.000000)">
+            <g id="编组-26" transform="translate(180.000000, 140.000000)">
+                <g id="编组-20" transform="translate(0.000000, 505.000000)">
+                    <g id="编组-20备份" transform="translate(0.000000, 77.000000)">
+                        <g id="编组-27" transform="translate(24.000000, 18.000000)">
+                            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                            <g id="编组" transform="translate(1.000000, 1.000000)" stroke="#52F6C6" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline id="路径" points="0.636426 0.9545515 0.636426 3.5 3.181885 3.5"></polyline>
+                                <path d="M0,7 C0,10.865995 3.134005,14 7,14 L7,14 C10.865995,14 14,10.865995 14,7 C14,3.134005 10.865995,0 7,0 C4.4093,0 2.147285,1.4073885 0.9368695,3.499335" id="路径"></path>
+                                <polyline id="路径" points="7.00175 2.8 7.00133 7.00308 9.96912 9.97087"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

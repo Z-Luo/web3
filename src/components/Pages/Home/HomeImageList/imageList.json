@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "1",
+		"label": "VIP Party",
+		"subtitle": "18 May, 2024",
+		"imageSrc": "/images/vip-party.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "2",
+		"label": "Startup Competition",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/startup-competition-homepage.png",
+		"href": "/startup"
+	},
+	{
+		"_id": "3",
+		"label": "Capital Connect",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/capital-connect.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "4",
+		"label": "Cyber Party",
+		"subtitle": "18 May, 2024",
+		"imageSrc": "/images/cyber-party.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "5",
+		"label": "AI Insight Hub",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/ai-hub.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "6",
+		"label": "Web3 Innovation Hub",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/web3.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "7",
+		"label": "FutureTech Hub",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/tech-future.png",
+		"href": "/convention"
+	},
+	{
+		"_id": "8",
+		"label": "NFT Gallery",
+		"subtitle": "18-19 May, 2024",
+		"imageSrc": "/images/nft-gallery1.png",
+		"href": "/convention"
+	}
+]

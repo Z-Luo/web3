@@ -1,0 +1,658 @@
+[
+	{
+		"_id": "61",
+		"name": "Mark Furner MP",
+		"description": "Responsibilities include biosecurity, agriculture, animal welfare, food and fibre industry development and rural economic development.",
+		"jobTitle": "Minister for Agricultural Industry Development and Fisheries",
+		"avatarSrc": "/images/speakers/mark-furner.jpg",
+		"companySrc": "/images/logo/gov-logo.png"
+	},
+	{
+		"_id": "62",
+		"name": "Leanne Linard MP",
+		"description": "Responsibilities include climate change policy, environmental planning and protection policy, the Great Barrier Reef, pollution and waste management, marine and national parks management, science strategy and innovation policy.",
+		"jobTitle": "Minister for Science and Innovation",
+		"avatarSrc": "/images/speakers/leanne-linard.jpg",
+		"companySrc": "/images/logo/gov-logo.png"
+	},
+	{
+		"_id": "01",
+		"name": "Justin Sun",
+		"description": "Justin Sun is the Founder of TRON, one of the world's largest blockchain DAO ecosystems, and Member of the HTX Global Advisory Board, one of the world’s largest crypto exchanges. Sun has been named Forbes' 30 under 30 in the Consumer Technology category several times, among other global recognitions and actively engaged in philanthropic endeavours. Sun is an avid art collector, gamer, investor, philanthropist, and space enthusiast.",
+		"jobTitle": "Founder of TRON and Member of the HTX Global Advisory Board",
+		"avatarSrc": "/images/speakers/justinSun.png",
+		"companySrc": "/images/logo/tron-logo.png"
+	},
+	{
+		"_id": "02",
+		"name": "Jun Du",
+		"description": "Mr. Jun Du, as an early evangelist, serial entrepreneur, and investor in the blockchain and digital asset industry, boasts nearly 10 years of industry experience, spanning various areas such as corporate management, strategic planning, market expansion, and investment mergers and acquisitions. Prior to joining SINOHOPE Technology, he co-founded the globally leading cryptocurrency trading platform, Huobi Group, with Mr. Lin Li, Chairman of the Board, in 2013. Subsequently, Mr. Jun Du served as the Co-founder and Director of Chainup Pte. Ltd. starting in 2017 and assumed the role of Co-founder and Partner at ABCDE Capital from 2022.Before entering the blockchain industry, Mr. Jun Du held positions at well-known internet companies such as Tencent and Kingsoft. Currently, he is pursuing a Master's in Management at the National University of Singapore.\n\n\nSINOHOPE HK Listed：1611",
+		"jobTitle": "Executive Director & CEO, Sinohope",
+		"avatarSrc": "/images/speakers/jun-du.jpg",
+		"isSpeaker": true,
+		"companySrc": "/images/sponsors/sinohope-logo.png"
+	},
+	{
+		"_id": "22",
+		"name": "Michael Choi OAM",
+		"description": "Michael is an entrepreneur, engineer, project manager and directors of multiple private and public companies. He was the first Asian-Australian to be elected into the Queensland Parliament and held office for almost 12 years. He was the Assistant Minister for a multitude of portfolios, including Mines and Energy, Natural Resources, Trade and Multicultural Affairs. He has been the Honorary Ambassador for Brisbane for over 25 years and was also appointed an Honorary Ambassador for the City of Redland. He was awarded Honorary Citizen of the City of Shenzhen in China, a sister city of Brisbane. Michael received the Order of Australia award OAM is currently the vice president of the Australia China Business Council Queensland Chapter. In the last few years, Michael has expanded his interest in the AI & blockchain industry and technology and is focusing on blockchain applications in the property industry and community.",
+		"jobTitle": "Chair of Advisory Board",
+		"avatarSrc": "/images/speakers/Michael_Choi.jpg",
+		"companySrc": ""
+	},
+	{
+		"_id": "1",
+		"name": "Robert Lee",
+		"description": "Robert Lee, also known as Robert Li or Bo Li, holds a Ph.D. in Economics and is a seasoned senior engineer, professor, and doctoral supervisor. Beyond his academic achievements, he is the founder of the 518 Blockchain meetup. Additionally, he spearheads the International Digital Economy and Blockchain DBA program, contributing significantly to advancements in the realms of digital economics and blockchain technology.\n\nWith connections to numerous global educational institutions, industry associations, investment funds, research institutions, and cryptocurrency mining facilities, Robert Lee serves in various capacities such as team leader, chief economist, and advisor. His diverse roles reflect a commitment to fostering innovation and expertise in the dynamic fields of economics and blockchain technology.",
+		"jobTitle": "Ph.D., Chief Economist",
+		"avatarSrc": "/images/speakers/Robert.jpg",
+		"companySrc": "/images/logo/robertLee-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "04",
+		"name": "Mellissah Smith",
+		"jobTitle": "Founder, Robotic Marketer",
+		"description": "Mellissah Smith is a international expert in the intersection of marketing and artificial intelligence, renowned for her pioneering contributions and thought leadership. As the visionary founder of Robotic Marketer, a revolutionary marketing strategy platform powered by AI, Mellissah has redefined the landscape of strategic marketing planning. Her innovative approach, which leverages machine learning and data analytics to create precision-targeted marketing strategies, has positioned Robotic Marketer at the forefront of the industry. Her expertise and contributions were recognised when she was honoured with the prestigious \"Innovator of the Year\" award, a testament to her groundbreaking work in integrating AI with marketing practices. Mellissah is also the author of \"Robotic Marketer: ME\", a seminal work that encapsulates her philosophy and insights into leveraging artificial intelligence for marketing excellence. The book serves as a guide for marketers aiming to navigate the complexities of digital transformation and AI integration. Through her work, Mellissah Smith continues to shape the future of marketing, demonstrating a profound understanding of how technology can be harnessed to drive innovation, efficiency, and effectiveness in marketing strategies. Her role as a speaker and thought leader in the field enriches the discourse on AI's potential in marketing, highlights her ability to be a visionary in the future of marketing as a discipline.",
+		"isSpeaker": true,
+		"avatarSrc": "/images/speakers/Mellissah.jpg",
+		"companySrc": "/images/logo/robotic.png"
+	},
+	{
+		"_id": "54",
+		"name": "Jessie Hughes",
+		"jobTitle": "Senior Creative Technologist, Leonardo.ai",
+		"description": "Jessie Hughes is an internationally-recognised new media artist, technologist, scholar and screenwriter, her works having exhibited most notably at Sundance, SXSW, Cannes and the Tate Modern. She’s collaborated with the likes of Meta, Oculus and Abode, in a decade of leading imaginative emerging technologies. Jessie Hughes is the Senior Creative Technologist and Artist-In-Residence at generative AI leader, Leonardo.Ai, pioneering tools for a new era for human creativity.",
+		"isSpeaker": true,
+		"avatarSrc": "/images/speakers/jessieHughes.png",
+		"companySrc": "/images/logo/leonardoAi.png"
+	},
+	{
+		"_id": "05",
+		"name": "Herbert",
+		"jobTitle": "GM of Asia, DFINITY Foundation",
+		"description": "Herbert Yang is a serial entrepreneur and business leader of growth and innovation. He leads DFINITY's Asia operations to grow the developer ecosystem for the Internet Computer and incubate disruptive Web3 startups. Before DFINITY, he headed the startup business for AWS Greater China, working with VC investors, PE firms, accelerators, incubators, and communities to build startup ecosystem across China, Hong Kong, and Taiwan. Previously Herbert was CFO of China Mobile’s “12580” service and Zhang Yimou’s “Impression Series” in Beijing, Deputy-Secretary for Wu Zuoren International Foundation of Fine Arts, CEO of ed-Tech startup Century Innovative Technology in Hong Kong, and founder CEO of fit-tech startup Linkqlo in Palo Alto. He was also an early member and director of PE firm Yunfeng Capital. Prior to startup and investment, Herbert was a finance executive in GE Capital leading digital innovation initiatives and driving turn-around transformation in Singapore, Tokyo, Munich, Florence, and Boston. Herbert earned MS degree (Sloan Fellow) from Graduate School of Business of Stanford University and BBA from National University of Singapore.",
+		"isSpeaker": true,
+		"avatarSrc": "/images/speakers/Herbert.png",
+		"companySrc": "/images/logo/internet-computer.png"
+	},
+	{
+		"_id": "34",
+		"name": "Alyse Sue",
+		"description": "Web3 founder, tech entrepreneur and software engineer.- Director of Metaverse at KPMG Futures, where we use game-changing technologies to build new business models for the firm.- Cofounder of Transhuman Coin, a DeFi project that funds Transhuman projects which use science and technology to overcome limitations of human biology: www.transhumancoin.finance- Founding member of FutrDAO, an investment DAO that supports radical impact web3 projects, primarily in climate and healthy longevity.",
+		"jobTitle": "Co-founder, Transhuman Coin",
+		"avatarSrc": "/images/speakers/alyseSue.png",
+		"companySrc": "/images/logo/transhumanCoin.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "6",
+		"name": "Ken Huang",
+		"description": "Ken Huang is the author and chief editor of eight books on artificial intelligence and Web3, published respectively by international publishers such as Springer and Cambridge University Press. Serving as the CEO of the AI and Web3 consulting and education company, he holds multiple roles including a Blockchain Expert of the Chinese Institute of Electronics. He is also a core contributor to the Generative AI Working Group at the NIST and a core author of the OWASP Top 10 for LLM Applications.\n\nKen Huang has been invited to provide Speaking or Consulting services at institutions such as the University of California, Berkeley, Stanford University, Peking University, Tsinghua University, the World Bank, and Huawei. Moreover, he has given keynote speeches at international conferences, for example, the Davos World Economic Forum 2020 Blockchain Conference; Consensus 2018 in New York; The American ACM AI & Blockchain Decentralized Annual Conference 2019; IEEE Technology and Engineering Management Society Annual Meeting 2019.",
+		"jobTitle": "CEO of Distributedapp.ai and Co-Chairman of AI Safety Working Groups at Cloud Security Alliance",
+		"avatarSrc": "/images/speakers/kenHuang.jpg",
+		"companySrc": "/images/logo/distributedapp-logo.jpg",
+		"isSpeaker": true,
+		"showBookLink": "https://www.amazon.com/Beyond-AI-Business-Landscape-Tomorrow-ebook/dp/B0CK5F3KLY?ref=d6k_applink_bb_dls&dplnkId=d9a5a9e6-a1a7-4a3c-a007-cb478a5b76b7",
+		"bookTitle": "Beyond AI: ChatGPT, Web3, and the Business Landscape of Tomorrow (Future of Business and Finance)"
+	},
+	{
+		"_id": "14",
+		"name": "Daniel Wu",
+		"description": "Daniel Wu is an accomplished technical leader with over 20 years of expertise in software engineering, AI/ML, and team development. With a diverse career spanning technology, education, finance, and healthcare, he is credited for establishing high-performing AI teams, pioneering point-of-care expert systems, co-founding a successful online personal finance marketplace, and leading the development of an innovative online real estate brokerage platform. Passionate about technology democratization and ethical AI practices, Daniel actively promotes these principles through involvement in computer science and AI/ML education programs. A sought-after speaker, he shares insights and experiences at international conferences and corporate events. Daniel holds a computer science degree from Stanford University.",
+		"jobTitle": "Strategic AI Leadership | Keynote Speaker | Educator | Entrepreneur, Stanford University",
+		"avatarSrc": "/images/speakers/danielWu.png",
+		"isSpeaker": true,
+		"companySrc": "/images/logo/stanford-logo.png"
+	},
+	{
+		"_id": "44",
+		"name": "Washington Sanchez",
+		"description": "I'm the Product Lead of Kraken's NFT marketplace, kNFT (http://www.kraken.com/nft ). I'm privileged to lead an amazing team that works tirelessly to bring NFTs to millions of our clients in a safe, easy, and delightful experience.Previously a co-founder of a startup company called OB1, which offers services to the users of the OpenBazaar network. Core developer of the OpenBazaar project, which is a decentralized peer-to-peer marketplace that uses Bitcoin.",
+		"jobTitle": "Product Lead for Kraken NFT Marketplace",
+		"avatarSrc": "/images/speakers/washington Sanchez.jpg",
+		"companySrc": "/images/logo/kraken-vector-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "20",
+		"name": "Debora Kocak",
+		"description": "Deb is a lawyer and is the founder of Granton, a consultancy aiding startups in grants, R&D incentives, and accelerators. She's already helped 50+ clients, securing over $6 million in grants. With a background in web2 startups, Deb transitioned into web3 as COO of Move to Earn App PUML. There, she spearheaded a token launch, crafted NFT collections, forged web3 partnerships, and implemented AI automations. Deb's expertise spans the dynamic realms of law, grants, and emerging technologies.",
+		"jobTitle": "Founder, Granton",
+		"avatarSrc": "/images/speakers/deboraKocak.png",
+		"companySrc": "/images/logo/granton.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "23",
+		"name": "Warwick Powell",
+		"description": "Warwick Powell is an Adjunct Professor in the Faculty of Design at Queensland University of Technology and is also the founding chairman of Smart Trade Networks Group of companies. He has a 30+ year career spanning government, academia and the private sector. He has founded and exited 3 consulting companies and is now focused on integrating his academic research and development with real-world solutions utilising digital technologies, blockchains and big data analytics. His experience covers a diverse range of industries including mining and energy, property development and land use planning, telecommunications, banking, information and communications technology, food systems, travel and tourism, funds management, local government and major projects planning. He was previously the Advisor to the Queensland Government's Mines and Energy Minister and was also an advisor to Kevin Rudd, Australia's former prime minister. He has published many papers in peer-reviewed academic journals and is the author of the book \"China, Trust and Digital Supply Chains. Dynamics of a Zero Trust World\" (2023).",
+		"jobTitle": "Adjunct Professor, QUT Design Lab, Queensland University of Technology",
+		"avatarSrc": "/images/speakers/warwick.jpg",
+		"companySrc": "/images/logo/Queensland-University-of-Technology-logo.jpeg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "24",
+		"name": "Jake (Crypto King)",
+		"description": "Jake the 'Crypto King' is a well-known KOL and VC in the blockchain and crypto space. Having been present for more than 6 years his background in law and finance makes him a formidable force. Providing consulting services along with venture capital funds makes him a standout social media presence. Having worked with real-world celebrities along with the most notable individuals in crypto he's solidified himself as a household name when it comes to blockchain. Now he enjoys traveling the world while educating those at crypto conferences.",
+		"jobTitle": "KOL & VC",
+		"avatarSrc": "/images/speakers/cryptoKing.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "36",
+		"name": "YuanJie Zhang",
+		"jobTitle": "Co-Founder/Chief Shilling Officer, Conflux",
+		"avatarSrc": "/images/speakers/yuanjieZhang.jpg",
+		"companySrc": "/images/logo/conflux.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "9",
+		"name": "Samira Tollo",
+		"description": "Samira Tollo, is an accomplished professional serving as the CTO and Co-Founder of Elbaite, a leading Australian self-custody crypto-exchange. Formerly an IBM blockchain consultant, Samira is passionately dedicated to propelling the growth of domestic blockchain use cases. Since 2017, Samira has been deeply engaged in blockchain and cryptocurrency, spanning projects from startups to enterprises. Her background as an electrical engineer further enriches her perspective. She actively promotes tech entrepreneurship among young Australians. Samira's accolades include being the 2023 Fintech Australia Awards finalist for Outstanding Fintech Leader and Emerging Fintech Leader, as well as the winner of the 2023 and 2022 Blockchain Australia Awards' Gender and Diversity Leader of the Year.",
+		"jobTitle": "CTO, Elbaite",
+		"avatarSrc": "/images/speakers/samira.png",
+		"companySrc": "/images/logo/elbaite.webp",
+		"isSpeaker": true
+	},
+	{
+		"_id": "49",
+		"name": "Yolanda Li",
+		"description": "Yolanda is an award-nominated product manager with over a decade of experience in delivering product solutions focused on ML capabilities. Her work has significantly contributed to the creation and global scaling of multiple GenAI product features, which are now loved by millions of customers around the world.",
+		"jobTitle": "Product Manager, Canva",
+		"avatarSrc": "/images/speakers/yolandaLi.jpg",
+		"companySrc": "/images/logo/yolandaLiLogo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "31",
+		"name": "Yael Tamar",
+		"description": "DIBS Capital (Formerly SolidBlock), which is creating a vast multi-broker network to facilitate a market for the sale of secondary shares of private companies. As an early mover in the blockchain space, Yael serves at the helm of FIBREE, Foundation for International Blockchain and Real Estate Expertise (the leading international network for exchanging knowledge in the real estate industry) and as a Founder of Women in Block.",
+		"jobTitle": "CEO & Co-Founder of Dibs Capital",
+		"avatarSrc": "/images/speakers/yaelTamar.jpg",
+		"companySrc": "/images/logo/dibs-capital.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "25",
+		"name": "Daniel Leslie",
+		"description": "Daniel has been a miner since 2018 and over this time has built up a portfolio of Bitcoin miners. He has been involved in building out multi-megawatt mining projects with both air and immersion cooling setups. HashX is Australia’s premier supplier of mining hardware, with operations across Australia, New Zealand and South East Asia. HashX serves customers ranging from buying your first miner through to large-scale industrial mining farms.",
+		"jobTitle": "Business Development Manager HashX Mining",
+		"avatarSrc": "/images/speakers/danielLeslie.png",
+		"companySrc": "/images/logo/hashx.jpg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "5",
+		"name": "Danielle Marie",
+		"description": "Danielle Marie is a seasoned Blockchain Educator, Crypto Enthusiast, and Community Organizer who was awarded Australian Blockchain Leader of the Year 2023. She is the founder of the Women in Digital Economy initiative fostering female empowerment and a founding member of ALL THINGS BLOCKCHAIN a non-profit association focused on growing the local blockchain ecosystem. ",
+		"jobTitle": "Web3 Educator & Community Builder, TAFE QLD, Women in Digital Economy",
+		"avatarSrc": "/images/speakers/danielleMarie.jpg",
+		"companySrc": "/images/logo/wide.png",
+		"secondCompanySrc": "/images/logo/tafeQueensland.jpg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "26",
+		"name": "Henry Wang",
+		"description": "Founder of W3A（World Web3 Alliance). Founder CEO for SmartMesh.io Fellow of SUSS (Singapore University of Social Sciences) Advisor for, LingoAI.io, MeshBox.io, MetaLife.social, Titan Network",
+		"jobTitle": "Founder of W3A(World Web3 Alliance) Founder CEO for SmartMesh.io",
+		"avatarSrc": "/images/speakers/henryWang.jpg",
+		"companySrc": "/images/logo/smartMesh.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "27",
+		"name": "Prof. Xue Li",
+		"description": "Dr Xue Li is a Professor in School of Information Technology, the University of Queensland in Australia. Dr Xue Li’s work on Big Data Analytics has attracted wide attentions. For example, he was listed as one of 50 “The Most Powerful people in Australia\" on Big Data by the Financial Review - the Power Issue 2015; the Microsoft Start-Up Q Award 2014, Winner of the Best use of Open Data – QLD Premier’s Awards for Open Data 2014. His research interests are in database management, machine learning, and intelligent information systems. He is an Associate Editor of Journal of Advanced Internet of Things. He has over 200 publications as monograph, edited books, book chapters, and journal and conference papers. His Google h-Index is 54, with 9,600 citations. He has successfully supervised more than 35 PhD students to graduation as their principal supervisor.",
+		"jobTitle": "Professor, The University of Queensland",
+		"avatarSrc": "/images/speakers/xueLi.png",
+		"companySrc": "/images/logo/xueli-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "2",
+		"name": "Ting Wang",
+		"description": "At the forefront of Coinstash, Ting serves as the CEO, guiding the company's strategic direction and propelling its growth. With a diverse background spanning traditional financial services and the digital asset sector, Ting is a qualified lawyer in the Supreme Court of NSW and has held pivotal roles at KPMG and as a senior commercial analyst at a Fortune 500 company. Since 2015, Ting has been actively engaged in digital asset investments, bringing extensive experience to the table. His deep involvement in the ever-evolving digital landscape, combined with legal expertise and financial acumen, has solidified Coinstash as the foremost trusted cryptocurrency bank under Ting's dynamic and visionary leadership.",
+		"jobTitle": "CEO of Coinstash",
+		"avatarSrc": "/images/speakers/tingWang.png",
+		"companySrc": "/images/logo/cs-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "3",
+		"name": "Yang Wang",
+		"description": "I'm Yang Wang, a Senior Solution Architect at Databricks, the Data and AI company. With over 15 years in software engineering, machine learning, big data, and Gen AI, I've navigated through diverse sectors like online advertising, telecom, banking, retail, and finance. As a certified professional, my journey has been more than just about leveraging Data & AI technologies; it's been about enabling transformations. My past experiences with industries like Cloudera, Hortonworks, and Tencent have enriched my perspective, allowing me to tackle complex business challenges with modern data and AI solutions.",
+		"jobTitle": "Senior Solution Architect of Databricks",
+		"avatarSrc": "/images/speakers/yangWang.png",
+		"companySrc": "/images/logo/databrickslogo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "13",
+		"name": "Stacy Quackenbush",
+		"description": "Third Academy CEO is a blockchain-based web3 social education platform with Soulbound NFT credentialling, a wallet-based recruiter matching system, and metaverse campuses.",
+		"jobTitle": "CEO, Third Academy",
+		"avatarSrc": "/images/speakers/stacy.png",
+		"companySrc": "/images/logo/stacy-Logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "35",
+		"name": "Larry",
+		"jobTitle": "Senior Business Development Manager, Hashkey Exchange",
+		"avatarSrc": "/images/speakers/larry.jpg",
+		"companySrc": "/images/logo/hashkeyExchange.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "28",
+		"name": "Leigh Cowan",
+		"description": "Internationally revered expert on launching new innovations, popular presenter, highly sought-after trainer of senior executives in marketing and strategy, acclaimed author in leadership management and business strategy, with a 45-year career of successful business achievements. After reaching the CMO level in FMCG, Leigh moved into consulting for national and multi-national organizations and training larger c-suite executives. Part of the strategic consulting firm, Leadership Empowerment, Leigh facilitates leadership and management decision-making in strategy and planning.",
+		"jobTitle": "Director Of Strategic Planning Leadership Empowerment Pty Ltd",
+		"avatarSrc": "/images/speakers/leighCowan.jpeg",
+		"companySrc": "/images/logo/leigh-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "8",
+		"name": "Nickie Scriven",
+		"description": "Nickie Scriven is a Non-Executive Director, former CEO of Zenith Media and the Founder of Chief Meta Chicks, a women's tech start-up community; and Alchemy8 Media, an independent marketing consultancy and agency. An Executive business, marketing and media professional with 27+ years' experience in business & marketing strategy, digital transformation, data, analytics & insights, e-commerce, communications & content, brand strategy & identity, digital & social media, public relations and sponsorship. An early adopter of Web3, excited by the opportunities and benefits of decentralisation and interoperability at a time when consumers are seeking control over their personal data and privacy. Passionate about educating and bringing more women on the web3 journey and the opportunities for innovation and business success. Working with communities, businesses and brands at the intersection of Web3 and IRL, via education, entertainment, e-commerce, socialisation and networking via her businesses Chief Meta Chicks and Alchemy8.",
+		"jobTitle": "Founder & CEO, Chief Meta Chicks",
+		"avatarSrc": "/images/speakers/nickieScriven.png",
+		"companySrc": "/images/logo/chiefMeta.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "15",
+		"name": "Bob He",
+		"description": "Bob (Weihai) is the Founder of Veritas Tech - a startup, with a mission to develop emerging technologies (Blockchain/DLT, AI, IoT) for a sustainable future. He holds a European Engineer (EUR ING) title, with UK Chartered status in Engineering (CEng), Science (CSci), and IT (CITP); and a Master of Science degree, with Distinctions for Excellence, from the University of Oxford. Bob is an Honorary Industry Associate with University College London (UCL) Centre for Blockchain Technologies (CBT); and a Global Blockchain Business Council (GBBC) Ambassador for Australia.",
+		"jobTitle": "Founder & Engineer, Veritas Tech",
+		"avatarSrc": "/images/speakers/bob.png",
+		"companySrc": "/images/logo/veritas.jpeg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "38",
+		"name": "Michael Hazilias",
+		"jobTitle": "Co-Founder and CEO, Breakout Solutions",
+		"description": "Leveraging his 26 years of software development and automation experience, Michael plunged headfirst into the world of Bitcoin and blockchain technology in 2017, quickly becoming a leading expert in both. Michael has more than 20x'd his digital asset portfolio, now managing a 7-figure investment portfolio across multiple asset classes. Michael leads the team at Breakout Solutions in creating automated passive income strategies leveraging the power of digital assets. He has also helped 450+ students generate millions of dollars in profit and passive income in under three years. Michael is on a mission with Breakout Solutions to Help 1 Million People Achieve Financial Independence By The Year 2032.",
+		"avatarSrc": "/images/speakers/michaelHazilias.png",
+		"companySrc": "/images/logo/breakout.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "39",
+		"name": "Wassim Dabboussi",
+		"jobTitle": "General Manager, Breakout Solutions",
+		"description": "Armed with 20 years of business and entrepreneurial experience and having faced financial ruin during the 2020 lockdowns, Wassim reinvented himself by deep-diving into the cryptocurrency and digital asset space. Starting from scratch in 2021, through education, determination and perseverance, he now manages a multiple 6-figure digital asset portfolio. Wassim is passionate about helping individuals to reclaim their financial sovereignty and he is driven by a mission for a fairer and more equitable world. As part of the Breakout Solutions team, he educates people to utilise digital assets to transcend the constraints of the debt-driven financial matrix, empowering them to achieve financial freedom.",
+		"avatarSrc": "/images/speakers/wassimDabboussi.png",
+		"companySrc": "/images/logo/breakout.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "20",
+		"name": "Lise Li",
+		"description": "Graduated from the University of International Business and Economics (UIBE) and with years of experience in Fintech industry, Lise is currently dedicated in advocating BSV Blockchain technology as Head of APAC Hub with BSV Association (Switzerland). Lise is also founder and CEO of Keyi Technology which is a Shanghai-based blockchain consulting company.",
+		"jobTitle": "Head of APAC Hub, BSV Association (Switzerland)",
+		"avatarSrc": "/images/speakers/huizi.png",
+		"companySrc": "/images/logo/bitcoinsv.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "4",
+		"name": "Jason Tan",
+		"description": "Jason Tan is the Founder of Engage AI - a Second Brain to technical SME owners in the B2B industry like Anne Hathaway is to Meryl Streep in the iconic Devil Wears Prada movie. With its impeccable long-term memory and timely information, it acts like an ever-reliable PA. With Engage AI's aid in saying the right things at the right place to the right people, technical SME owners can confidently build relationships and sales pipelines. Taking the learnings from implementing Engage AI, he also assists and shares the learnt lessons with enterprises to embrace and incorporate Generative AI and LLMs into their business. Jason has a reach of 50,000 audiences across multiple social media platforms and newsletters.",
+		"jobTitle": "CEO/Founder of Engage Ai",
+		"avatarSrc": "/images/speakers/jasonTan.jpg",
+		"companySrc": "/images/logo/engageAI.jpeg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "7",
+		"name": "Curt Shi",
+		"description": "Curt Shi, a seasoned investor specializing in early-stage and cross-border investments, has been a key player in China's TMT sector since 1999, successfully managing funds and achieving notable exits in both the American and Australian markets. In 2008, he founded Imprint Capital Partners, focusing on TMT and creative industries, with successful investments like Airtasker, Catapult Group International, and Sezzle. He co-founded Follow[the]Seed in 2015, a venture fund renowned for its predictive model and impressive portfolio including Jayride, award-winning Salt Security, and Whiterabbit.AI. In 2018, Curt Shi established Welinder & Shi Capital in the US, focusing on innovative lifestyle companies like CAKE and SYNG, which were featured in Time magazine’s ‘Best 100 Inventions’. He then shifted focus to digital assets and Web3, achieving notable success with STEPN, a move2earn NFT project. Following this, Curt founded the Prodigital Future Fund in Hong Kong, dedicated to supporting the foremost web3 startups worldwide, leveraging a vast global network and resources. Furthermore, he expanded his influence by joining Boson Ventures as a General Partner, reinforcing his commitment to nurturing startups with extensive resources and a comprehensive global network. ",
+		"jobTitle": "Founding Partner, ProDigital Future Fund",
+		"avatarSrc": "/images/speakers/curtShi.jpeg",
+		"companySrc": "/images/logo/proigtial.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "32",
+		"name": "Simon Callaghan",
+		"description": "Simon has spent his career within innovative technologies, including working with blockchain and financial technologies in Australia, the US, the UK, Asia, and Europe. Most recently leading the Digital Assets Programme at the University of Cambridge and as Co-Founder of middle office startup MOOPS Tech. He holds an MBA from AGSM and a Masters degree from Cambridge.",
+		"jobTitle": "CEO, Blockchain Australia",
+		"avatarSrc": "/images/speakers/simonCallaghan.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "50",
+		"name": "Lisa Wade",
+		"description": "Lisa Wade has 30 years of experience in financial services and pioneered both responsible investment, and the emerging decentralised finance ecosystem. She has extensive portfolio management experience including derivative trading, equities, ventures and innovating financial structures with real asset tokens. She co-created the RARI Responsible investment ETF and in her role as Head of Digital Innovation and Sustainability at NAB lead projects such as Project Atom - the Australian CBDC project with the RBA.",
+		"jobTitle": "Chief Executive Officer, Digital X",
+		"avatarSrc": "/images/speakers/lisaWade.jpg",
+		"companySrc": "/images/logo/logo-lisaWade.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "16",
+		"name": "David Fam",
+		"description": "David Fam, co-founder of Consensus Layer, a boutique accounting firm specialising in crypto tax. With 10+ years of tax and accounting experience, and as a certified Chartered Accountant, and Self-Managed Super Fund Specialist Advisor, his passion for both tax and crypto started from a deep dive into the nature of money itself. With a deep understanding of the complexities of crypto taxation, David offers insights into the future of finance. His expertise lies in making intricate tax regulations accessible for both seasoned investors and newcomers, ensuring compliance and tax are not lost in the digital asset space.",
+		"jobTitle": "Senior Crypto Tax Accountant, Consensus Layer",
+		"avatarSrc": "/images/speakers/davidFam.png",
+		"companySrc": "/images/logo/consensus.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "21",
+		"name": "Robin",
+		"jobTitle": "Solutions Architect, AWS",
+		"avatarSrc": "/images/speakers/robin.jpg",
+		"companySrc": "/images/logo/aws.svg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "10",
+		"name": "Adam Stokes",
+		"description": "Adam Stokes is an Australian author, crypto commentator, trader and investor with an MBA, double advanced diploma, double bachelors and multiple diplomas in business, economics, government and languages. As a self-made millionaire and prior rifleman of the Australian Army and commissioned officer of the Royal Australian Air Force, Adam now focuses his service on helping others learn about finance, crypto and economics to protect and build their wealth. Adam has lived in Spain, the USA, South Korea, America, the Middle East, England and several states across Australia. He speaks English, Spanish and some Korean but believes strongly in the language of mathematics and thermodynamics.",
+		"jobTitle": "Economist, ATS",
+		"avatarSrc": "/images/speakers/adamStrokes.png",
+		"companySrc": "/images/logo/adam-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "19",
+		"name": "Karen Cohen",
+		"description": "Karen Cohen aka “blockmum” is the Founder and Director of Emerging Tech HUB, a company that helps humans connect to Emerging Technology. She is the Founder of Women in Emerging Tech and Previous Deputy Chair for Blockchain Australia. She is the 2022 winner of the Blockchain Community Leader. Karen is the previous program manager for Inspiring Rare Birds where she ran the Prime Minister and Cabinet Office for Women mentoring scholarship program. She also ran the females in Fintech program for stone and chalk sponsored by LaunchVic.",
+		"jobTitle": "Founder, Emerging Tech Hub",
+		"avatarSrc": "/images/speakers/karenCohen.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "29",
+		"name": "Brooks Huang",
+		"description": "Dr. Brooks Huang is a visionary leader pioneering the tokenization of real-world assets. He explored blockchain's potential to revolutionize global commerce. With a team, he is developing a layer 1 blockchain for asset tokenization. JPMorgan and Citi are already exploring blockchain's efficiency in trading US Treasuries and digital securities. Dr. Huang's work aligns with market forecasts of trillions of dollars in tokenized digital securities by 2030.",
+		"jobTitle": "Director Joltify Chain",
+		"avatarSrc": "/images/speakers/brooksHuang.jpg",
+		"companySrc": "/images/logo/brooks-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "12",
+		"name": "Prateek Gupta",
+		"description": "Prateek leads business and growth at Onmeta - leading fiat on and off ramp solution for India & SEA. In past, he’s worked with Flipkart, Rapido, Ola & BCG. He has an MBA from UCLA Anderson and Btech from IIT Guwahati. He has hosted private events and Twitter spaces, been on panel discussions and gave talks in collaboration with Foundership (Coach), Polygon, Avalanche, OKX, Bitget, Ledger, Arbitrum etc. Can be both a speaker on the Indian crypto market and payments in web3 in general and also a panel host/moderator.",
+		"jobTitle": "CBO, Onmeta",
+		"avatarSrc": "/images/speakers/prateekGupta.png",
+		"companySrc": "/images/logo/onmeta-new.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "21",
+		"name": "Dr. LEE CHI KIN",
+		"description": "Dr. LEE CHI KIN is a blockchain industry analyst, founder of the Blockchain Industry Analyst Association, and holds a PhD in Philosophy from Shanghai University of Finance and Economics, doctoral in Financial Management from a European university, digital transformation executive certificate from the University of Cambridge",
+		"jobTitle": "Founder of the Blockchain Industry Analyst Association",
+		"avatarSrc": "/images/speakers/lee-chi-kin.jpg",
+		"companySrc": "",
+		"isSpeaker": true
+	},
+	{
+		"_id": "17",
+		"name": "Frederick Brien",
+		"description": "Frederick is Tokens for Humanity’s co-founder, Chairman and COO, with formal education in finance, business management, IT, computer networking and project management, and a professional background in organisation and strategic risk management, end-to-end IT lifecycle management and investment in startups and alternative assets. Recognising the slow rate of technology adoption by charities, in 2017 Frederick co-founded Tokens for Humanity as a way to help organisations with positive social value utilise blockchain technology and access cryptoasset markets. Tokens for Humanity now works with a range of charitable organisations to build fundraising and governance solutions, assist in managing crypto-assets long-term, and educate stakeholders and regulators on how blockchain technology affects the charity sector. Outside of philanthropy and blockchain, Frederick is a current investor and startup advisor, devotes time to continuous education, and is interested in geopolitics and sciences.",
+		"jobTitle": "Co-founder, Tokens For Humanity",
+		"avatarSrc": "/images/speakers/frederBrien.png",
+		"companySrc": "/images/logo/fredrick-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "18",
+		"name": "Bryce Thomas",
+		"description": "Bryce is Tokens for Humanity's co-founder and CEO. Outside of philanthropy and blockchain, Bryce is passionate about finance, the environment and technology. Working in logistics for many years, he has seen first-hand how destructive some industries can be to the environment which led him to explore regenerative finance and sustainability; most recently founding Pepal, a Scope 3 emissions platform. Bryce is an active startup advisor and keeps busy by spreading his time between passions.",
+		"jobTitle": "Co-founder, Tokens For Humanity",
+		"avatarSrc": "/images/speakers/bryceThomas.png",
+		"companySrc": "/images/logo/fredrick-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "30",
+		"name": "Lisa New",
+		"description": "Lisa New developed an Upper-Level Ontology and Formal Language and Grammar: An Integrative Cognitive Reasoning technology with embedded rule capacity that functions in Web 3 and empowers lay persons with advanced AI. It is, in very large platform collaboration, simultaneously a semantic web, cognitive reasoning, expert consensus development, best practice decision-support, multi-modal proof metadata, MLLM contextual Q&A data search/integrate/clean/analyse with human in the loop, and bias/error/corruption/inefficiency/ineffectiveness/unsafe/unsustainable identification and eradication tool. It can be relatively quickly co-developed using existing technologies, knowledge and skills; and then continuously co-improved for global shared problem solving.",
+		"jobTitle": "Safe And Ethical AI Researcher",
+		"avatarSrc": "/images/speakers/lisaNew.jpg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "33",
+		"name": "Rachael Jones",
+		"description": "Rachael Jones is a Co-Founder and Head of Operations at Women in Digital Economy (WID_Economy), championing Web3 innovation and blockchain's transformative potential. Her strategic insights are drawn from a Master’s in Management in Financial Economics and a Diploma in Applied Blockchain which she leverages to drive WID_Economy's mission of empowering women in technology and digital finance. Rachael brings her expertise in Web3 project consulting along with a strong background in traditional finance.",
+		"jobTitle": "Co-founder, Women in Digital Economy",
+		"avatarSrc": "/images/speakers/rachaelJones.png",
+		"companySrc": "/images/logo/wide.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "37",
+		"name": "Victor Chen",
+		"jobTitle": "Foundation Chairman, Datamall Coin",
+		"avatarSrc": "/images/speakers/victorChen.png",
+		"companySrc": "/images/logo/dmc.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "39",
+		"name": "Jock Haslam",
+		"description": "Jock is a Director at Hashlock, Australia's leading Blockchain Cyber Security and Smart Contract Auditing Firm. Hashlock's focus on manual-analysis led security research helps secure startups to enterprise blockchain innovations, both in Australia and globally.",
+		"jobTitle": "Director, Hashlock",
+		"avatarSrc": "/images/speakers/jock.jpg",
+		"companySrc": "/images/logo/hashlock.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "40",
+		"name": "Fletcher Roberts",
+		"description": "Fletcher is a Director at Hashlock, Australia's leading Blockchain Cyber Security and Smart Contract Auditing Firm. Hashlock's focus on manual-analysis led security research helps secure startups to enterprise blockchain innovations, both in Australia and globally.",
+		"jobTitle": "Director, Hashlock",
+		"avatarSrc": "/images/speakers/fletcherRoberts.jpg",
+		"companySrc": "/images/logo/hashlock.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "41",
+		"name": "Electra Frost",
+		"description": "Electra Frost is an accounting innovator at the bleeding edge, championing the open knowledge economy with Web3 technologies. Her work at Digital Playhouse Foundation, particularly with Accountants On-Chain and The School of Bitcoin, has redefined her accounting practice into a co-opetition model through ElectraFi. In 2024, she's developing CREDU, a gateway for accountants and professionals into the Bitcoin Web3 ecosystem, facilitating tokenised credentials for their CPD verification, compliance and monetisation. Her dedication to integrating blockchain into small and medium accounting practices marks a shift towards a more collaborative, transparent, and tech-adaptive industry that is ready to guide businesses entering the space.",
+		"jobTitle": "Director, ElectraFi",
+		"avatarSrc": "/images/speakers/electraFrost.jpg",
+		"companySrc": "/images/logo/electrafi.svg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "43",
+		"name": "Peter Argent",
+		"description": "Pete is a technology educator and founder of U Cubed, a social enterprise whose mission is to empower the world's youth with Web3 digital skills.Pete’s tech career started at IBM until he launched a coding school in Sydney in 2013. Teaching thousands of people to code across Australia, led to engagements with a UN agency, delivering innovation and emerging tech workshops in India, Philippines, Bangladesh, Iran and Sri Lanka, where he lived for a time until the pandemic.Since 2021, he has lectured at RMIT University, teaching blockchain economics and entrepreneurship.",
+		"jobTitle": "Founder and Educator, U Cubed",
+		"avatarSrc": "/images/speakers/peterArgent.jpg",
+		"companySrc": "/images/logo/ucubed-Peter Argent.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "46",
+		"name": "Laurene Mcmeckan",
+		"description": "Laurene is the Business Development Lead at Omniscia.io, one of the most trusted and fastest-growing blockchain security firms globally. She has been leading global BD efforts at Omniscia since its early days at the start of 2021, with a recent focus on the APAC region. With her experience as an ex-lawyer and a global citizen, having worked and lived in multiple countries, Laurene has helped catapult Omniscia to its position as a leader in the industry, serving clients such as L'Oreal, Gnosis and Ava Labs.",
+		"jobTitle": "BD Lead, Omniscia",
+		"avatarSrc": "/images/speakers/laureneMcmeckan.jpg",
+		"companySrc": "/images/logo/omniscia-Mcmeckan-Laurene.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "48",
+		"name": "Pavel Entin",
+		"description": "With 28 years of professional experience, I am the CEO and co-founder of a visionary company that leverages AI and Web 3 technologies to create a human-centric and sustainable digital world. I have a PhD in International Economics and a passion for innovation, liberty, and social impact. As a former CFO of multi-billion corporations and a successful venture capitalist, I have led and participated in multiple IPOs, ICOs, and private placements, generating over $ 300 million in value for my clients and partners. I have also done business and deals in more than 15 countries, gaining a global perspective and a diverse network. I enjoy mentoring young people who share my vision and values.",
+		"jobTitle": "CEO & Co-founder, SynPlanet",
+		"avatarSrc": "/images/speakers/pavelEntin.jpg",
+		"companySrc": "/images/logo/transparent-Entin-Pavel.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "51",
+		"name": "David Harris",
+		"description": "David is a serial entrepreneur and technologist working at the intersection of Web3 media, marketing and creative industries. He is a co-founder of The Great Wave Group, a Singapore-based investor and developer of the Splash.club ecosystem, the Cur8/Anywall digital art display platform and the Monet Media marketing agency.",
+		"jobTitle": "Founder, The Great Wave",
+		"avatarSrc": "/images/speakers/davidHarris.jpg",
+		"isSpeaker": true
+	},
+	{
+		"_id": "52",
+		"name": "Babu Pillai",
+		"description": "Dr Babu Pillai is a Lecturer and researcher at Southern Cross University within the Faculty of Science and Engineering, Gold Coast, Australia. His research interest is in Blockchain predominantly within the area of security, interoperability, digital assets and applications developments. He holds a PhD in Blockchain (cross-chain technology) and a Masters in Information Technology from Griffith University.",
+		"jobTitle": "Lecturer, Southern Cross University",
+		"avatarSrc": "/images/speakers/babuPillai.jpg",
+		"companySrc": "/images/logo/southern-cross-university.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "53",
+		"name": "Allan Fang",
+		"jobTitle": "Moledao Co-founder",
+		"avatarSrc": "/images/speakers/allanFang.png",
+		"companySrc": "/images/logo/allan-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "54",
+		"name": "BMAN",
+		"jobTitle": "BeWater Cofounder & ABCDE Capital",
+		"avatarSrc": "/images/speakers/bman.png",
+		"companySrc": "/images/logo/bman-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "55",
+		"name": "Liu Yang",
+		"jobTitle": "Founder of MetaTrust & Professor at NTU Singapore",
+		"avatarSrc": "/images/speakers/liuyang.png",
+		"companySrc": "/images/logo/liuyang-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "56",
+		"name": "Thomas Yao",
+		"jobTitle": "BeWater Cofounder & Desert Tech Cofounder",
+		"avatarSrc": "/images/speakers/thomasYao.png",
+		"companySrc": "/images/logo/bman-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "57",
+		"name": "Frank Kong",
+		"jobTitle": "Developer Advocate at Chainlink",
+		"avatarSrc": "/images/speakers/frankKong.png",
+		"companySrc": "/images/logo/frankKong-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "58",
+		"name": "Outprog",
+		"jobTitle": "Founder of everVision & PermaDAO",
+		"avatarSrc": "/images/speakers/outprog.png",
+		"companySrc": "/images/logo/outprog-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "59",
+		"name": "Juile",
+		"jobTitle": "Aleo Event Ambassador",
+		"avatarSrc": "/images/speakers/juile.png",
+		"companySrc": "/images/logo/juile-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "60",
+		"name": "Bruce Lan",
+		"jobTitle": "Partner of Bing Ventures",
+		"avatarSrc": "/images/speakers/bruceLan.png",
+		"companySrc": "/images/logo/bruceLan-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "63",
+		"name": "Maryna Kovalenko",
+		"jobTitle": "Co-founder, Syla",
+		"description": "Maryna is the Tax Co-Founder @ Syla, she is a Chartered Tax Adviser and a member of the Institute of Public Accountants with extensive experience in accounting, audit, and tax. Maryna is also a Certified Chair and acts as a Board Advisor to crypto startups. Maryna has a passion for cryptocurrency and has specialised in crypto tax since 2018 providing advisory and compliance services to private wealth and businesses. With Syla, Maryna is solving crypto tax for everyday investors and tax professionals through software and automation. She is inspiring more professionals to make the leap into the world of web3 and blockchain.",
+		"avatarSrc": "/images/speakers/marynaKovalenko.png",
+		"companySrc": "/images/logo/syla-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "64",
+		"name": "Hamish Jones",
+		"jobTitle": "Digital Strategist, Mvtek",
+		"description": "Hamish has spent 20 years immersed in tech, from early research on metaverse uses to standing at the intersection of technology and entrepreneurship. Hamish has always been an early adopter of technology and looked at ways that these technologies can be used for businesses and key decision-makers. Hamish has a passion for community and digital transformation - ensuring business owners harness tech to achieve their goals (both personally and professionally.) One of Hamish’s favourite workshop topics in 2023 was “How ChatGPT changed my life” where through both personal use cases and real-world examples he showed entrepreneurs and key decision makers different ways to use GPT to enhance their productivity both personally and professionally. His mission is to demystify AI and make it accessible, empowering entrepreneurs to harness its potential for transformative success.",
+		"avatarSrc": "/images/speakers/hamishJobes.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "65",
+		"name": "Lachlan Feeny",
+		"jobTitle": "CEO, Labrys",
+		"description": "Labrys’ CEO, Lachlan, is a prominent figure in web3 with an influence that extends beyond his company. Lachlan actively contributes to industry conferences and community events, passionately advocating for blockchain's transformative potential. Starting Labrys in 2017 amidst the 2018 crypto bear market, Lachlan's resilience propelled the company to become Australia's premier on-shore web3 agency. Lachlan's presence in media and academia reflects a commitment to fostering positive regulations and supporting emerging talent. His journey exemplifies dedication to blockchain's growth, positioning Labrys as an industry leader and contributing to Australia's global prominence in the blockchain community.",
+		"avatarSrc": "/images/speakers/lachlanFeeny.png",
+		"companySrc": "/images/logo/labrys-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "66",
+		"name": "Simon Tanna",
+		"jobTitle": "Software Developer, Labrys",
+		"description": "Simon is a software developer at Labrys, Australia's leading web3 development agency, where he has spent nearly two years crafting user-friendly blockchain application interfaces. His journey into the blockchain space is fuelled by a deep-seated passion for technology and an unwavering commitment to user experience. Simon's work focuses on demystifying blockchain technology, aiming to make decentralised applications more accessible and intuitive for everyday users. He is not just about coding; he's about creating a bridge between complex blockchain technologies and the end-user, ensuring a seamless and secure digital experience. Simon is looking forward to sharing his insights, learning from peers, and contributing to the ongoing evolution of a more secure and decentralised digital world. His goal is to inspire others and foster an environment where innovation thrives, pushing the boundaries of what's possible in web3 development.",
+		"avatarSrc": "/images/speakers/simonTanna.png",
+		"companySrc": "/images/logo/labrys-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "67",
+		"name": "Christian Dirk",
+		"jobTitle": "Product Researcher, Polkadot",
+		"description": "Product researcher and Polkadot Head Ambassador for Australia and New Zealand. PhD Information Systems candidate delivering web3 solutions to millions of users across the web3 space. Keynote speaker at a variety of web3 conferences and events across the globe including Consensus 2022 in Texas and Decoded 2023 in Copenhagen.7+ years of professional experience building and working with on-chain services and products including on-chain payments, gamefi, and cross-chain arbitrage. Passionate about growing Australia’s position within the web3 space and providing opportunities for Australians to create a better financial system.",
+		"avatarSrc": "/images/speakers/christianDirk.png",
+		"companySrc": "/images/logo/polkadot-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "68",
+		"name": "Erez Rachamim",
+		"jobTitle": "CEO, Stables",
+		"description": "Erez Rachamim is a seasoned founder in the fintech industry, known for delivering innovative, first-of-their-kind solutions to the market. With 8 years of experience in technology and finance, he has a unique perspective on the intersection of these industries. Erez has a background in venture capital and corporate advisory, having raised substantial funds for top-tier technology companies. He is a talented leader, skilled in driving growth, leading high-performance teams, and establishing strategic partnerships.",
+		"avatarSrc": "/images/speakers/erezRachamim.png",
+		"companySrc": "/images/logo/stables-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "69",
+		"name": "Liam Pillay",
+		"jobTitle": "Lead Software Engineer, Leonardo.Ai",
+		"description": "Meet Liam Pillay, leader behind the creation of the generative tool suite & platform: Leonardo.Ai, which ranks as one of the top 3 Discord servers worldwide, and sits among the top 25 most used AI platforms in use today. Liam has an affinity for cutting-edge technologies with experience that intersects generative artificial intelligence, web3 technologies, games, and education. Having worked with Raini Studios, building up their coin and NFT series to be one of the top 500, and collaborated with the Academy of Interactive Entertainment to build out related courses. Liam has been a go-to resource for individuals and organisations seeking to leverage AI tools for games, NFT collections, and web3 asset generation.",
+		"avatarSrc": "/images/speakers/liamPillay.png",
+		"companySrc": "/images/logo/leonardoai-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "70",
+		"name": "David Chung",
+		"jobTitle": "Director, Creo Legal",
+		"description": "David is the Founding Director of Creo Legal, a boutique commercial law firm focusing on the interface between business and technology. David co-founded a health-tech startup in 2016 and is now an advisor at AI Legal Assistant, an AI-driven productivity tool for lawyers. He has advised crypto businesses on legal issues since 2017 and continues to be heavily involved in the web3 industry.",
+		"avatarSrc": "/images/speakers/davidchung.png",
+		"companySrc": "/images/logo/creo-logo.png",
+		"isSpeaker": true
+	},
+	{
+		"_id": "71",
+		"name": "Madeleine Jones",
+		"jobTitle": "Head Of Community, Artela",
+		"description": "Madeleine, with a background in stock trading since age 17, has been deeply involved in crypto since 2014, including bitcoin mining and major blockchain projects. She leverages her expertise in marketing and strategy, collaborating with industry giants like Binance and Blockchain Week.",
+		"avatarSrc": "/images/speakers/madeleineJones.png",
+		"companySrc": "/images/logo/artela-logo.png",
+		"isSpeaker": true
+	}
+]
